@@ -1,4 +1,6 @@
 # rustOS-learning
+
+越学越感觉像C++ 加上 Python 加安全
 - Day1 (10.25)
   配置本地和github的rustlings环境，
   了解变量
@@ -12,7 +14,9 @@
 - 熟悉结构体和枚举
 - Day6 (11.8)
   熟悉String和&str，最大差别在于是否拥有所有权，记得了解数据类型的内存模型
-
+- Day7 (11.9)
+  模块，类似class
+- 
   
 
 
