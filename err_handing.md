@@ -9,4 +9,6 @@
   panic其他语言的异常，两种painc，unwind析构函数
 
 - .into .owned
-- 
+
+- Rust针对可恢复错误Result：<T,E>
+- 不可恢复，panic！宏
