@@ -1,5 +1,24 @@
 # rustOS-learning
 
+
+rCore-Tutorial
+
+11.21 完成第一章，并博客总结
+11.25 特权级
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 越学越感觉像C++ 加上 Python 加安全
 - Day1 (10.25)
   配置本地和github的rustlings环境，
